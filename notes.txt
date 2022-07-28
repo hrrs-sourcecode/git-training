@@ -1,1 +1,3 @@
 kencur satu
+kencur dua 
+kencur tiga
