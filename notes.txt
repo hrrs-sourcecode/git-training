@@ -1,3 +1,4 @@
 kencur satu
+kencur dua
 kencur tiga
 kencur empat
