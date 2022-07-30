@@ -1,6 +1,5 @@
 kenzurk
 kencurs
-zencurk
 - Learning JS Framework
   ^ Angular
   ^ React
